@@ -9,7 +9,7 @@ This repository contains curated notes, tips, and short references to help prepa
 | `test-types.md` | Manual, Automation, Regression, Smoke, UAT explained |
 | `test-design-techniques.md` | Equivalence Partitioning, BVA, State Transition |
 | `bug-life-cycle.md` | Bug tracking workflow with examples |
-| `agile-scrum-notes.md` | Sprint, standup, planning, velocity, ceremonies |
+| `agile-scrum-notes.md` | Sprint, standup, planning, velocity, ceremonies, User stories, Acceptance Criteria |
 | `tools-and-commands.md` | Postman, Git, Maven, Jenkins cheat sheet |
 | `java-for-testers.md` | Core Java concepts often asked in interviews |
 | `sample-qa-questions.md` | Frequently asked interview questions & answers |
